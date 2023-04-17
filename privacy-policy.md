@@ -261,27 +261,49 @@ The Slowfashion banner:
 When you first connect to the Platform, a banner is displayed to inform you about the categories of cookies that are used and to give you the possibility of accepting or refusing cookies related to (i) audience measurement, (ii) content customisation, (iii) personalised advertising and (iv) sharing on social networks.																									
 Once you have made your choices, a necessary cookie is placed on your terminal in order to keep them in memory for 6 months. This prevents us from asking you to set your cookies each time you visit our Platform.																									
 "If you wish to change these settings at a later date, you must empty your browser's cache so that the banner appears again or Retention period: their life span is generally the time of the session and a maximum of several months.Consequence in case of blocking: you may no longer be able to access the Platform and/or the Platform's Platforms.Details of the purposes:
+
 ● retain your expressed choice on the deposit of tracers;
+
 ● to allow you to remain connected when you navigate from one page of the Platform to another;
+
 ● to keep track of the contents of your shopping cart or to charge for the product(s) and/or Platform(s) purchased;
+
 ● customise the user interface (e.g. for language selection or presentation of our Platforms); save the format and dimensions of your screen and windows in order to correctly display our Platform;
+
 ● authenticate you to a Platform, including those aimed at ensuring the security of the authentication mechanism, for example by limiting robotic or unexpected access attempts;
+
 ● combat spam and phishing attempts, by enabling us to identify computers used to create large numbers of fake accounts;
+
 ● detect computers infected with malware and prevent them from causing damage
+
 ● implement security measures, for example when you are asked to log in again to a content or Platform after a certain period of time;
+
 ● detect navigation problems and therefore improve the usability of our Platforms;
+
 ● to secure transactions and fight against fraud (prevention of payment fraud, identity theft, etc.);
+
 ● to balance the load of equipment contributing to a communication Platform;
+
 ● to route traffic between servers and to understand the loading speed of our pages;
+
 ● facilitate communication via the Platform;
+
 ● measure the audience, traffic and carry out statistics of our Platform and its Platforms, in particular to improve the functionality of the Platform.4.2) Audience cookies (subject to your prior consent):These cookies allow us to collect information about your use of the site (number of visits, pages visited, time spent on the site, etc.) in order to carry out statistical analyses, on an aggregate basis, of the number of users and the way in which you navigate our Platform.Retention period: The life of these cookies does not exceed 13 months.Consequence in case of blocking: No consequence for the user but by accepting them, you contribute to the improvement of our Platform and our Platforms.To block this cookie directly via Google: Google Analytics opt-out browser add-on - Analytics Help Detail of the purposes:
+
 ● to measure the audience, traffic and performance of our Platform and its Platforms and to improve the functionality of the Platform;
+
 ● to analyse traffic in greater depth.4.3) Content personalisation cookies (subject to your prior consent):These cookies do not directly store personal data, but are based on the unique identification of your browser and terminal. These cookies allow us to deduce your user profile and recommend products, Platforms and content that best suit your preferences, and to offer you certain promotional offers on our Platform.Retention period: Their life span is very short, generally the time of the session, a few hours and a maximum of 13 months.Consequence in case of blocking: No consequence on the use of the Platform. On the other hand, their deletion will have the effect of displaying content that does not take into account your centres of interest. By accepting these cookies, you benefit from an enriched and personalised experience.Details of the purposes:
+
 ● to offer you content, products and Platforms that are personalised according to your preferences, interests and your browsing and use of the Platform;
+
 ● to identify your visit to our Platform, track the pages you visit and the links you click; to understand your user profile to better tailor our Platform and the advertisements displayed on it to your interests. If you have given us permission to send you advertising emails (such as newsletter sign-ups) or push notifications, we will also use this information to personalise these (targeting or advertising cookies).4.4) Personalised advertising cookies (subject to your prior consent):These cookies may be set within our Platform by our advertising partners. They may be used by these companies to profile your interests and deliver relevant and personalised advertising on other websites. These cookies allow us to display ads that best match your preferences. Your profile is also enriched with information from your interactions with our partners or with other publishers who are clients of these partners.Retention period: Their life span is very short, generally the time of the session, a few hours and a maximum of 13 months.Consequence in case of blocking: No consequence on the use of the Platform. On the other hand, their deletion will not lead to the cessation of advertising on the Internet. It will only result in the display of advertising that does not take your interests into account. By accepting these cookies, you will benefit from an enriched and personalised experience.Detail on the purposes:
+
 ● to offer you personalised content, products and Platforms based on your preferences, interests and your browsing and use of the Platform;
+
 ● to count the total number of advertisements displayed by us on our advertising spaces, to identify these advertisements, their respective number of displays, the number of users who clicked on each advertisement and, if applicable, the subsequent actions taken by these users on the pages to which these advertisements lead;
+
 ● to adapt the advertising content of our Platform through our advertising spaces as well as our offers, according to the navigation on our Platform, or third party sites, the purchases you may make and/or according to the location data (longitude and latitude) transmitted by your terminal (with your prior consent);
+
 ● to associate this data with browsing information in order to send you, for example, electronic prospecting or to display on your terminal, within advertising spaces that we issue, personalised advertisements that are specifically intended for you and likely to interest you personally.4.5) Social network sharing cookies (subject to your consent):We may include on our site, computer applications from third parties, which allow you to share content from our site with other people or to let these other people know your consultation or your opinion concerning a content of our Platform. This is notably the case of the ""Share"" and ""Like"" buttons from social networks such as ""Facebook"".The social network providing such an application button is likely to identify you thanks to this button, even if you did not use this button when visiting our site. Indeed, this type of application button may allow the social network concerned to track your browsing on our site, simply because your account with the social network concerned was activated on your terminal (open session) during your browsing on our site.We have no control over the process used by these third parties to collect information relating to your browsing on our site and associated with the personal data they hold. We invite you to consult the privacy protection policies of these social networks in order to learn about the purposes for which they may use the browsing information they may collect through these application buttons, particularly for advertising purposes. These protection policies must allow you to exercise your choices with these social networks, in particular by configuring your user accounts for each of these networks.Retention period: The retention period of the sharing cookies is determined by each social network but must not exceed 13 months.Consequence in case of blocking: No consequence on the use of the Platform. However, deactivating these cookies will prevent any interaction with the network(s) concerned."																									
 																									
 8. Potential transfer of data to other countries																									
@@ -340,27 +362,49 @@ If you have any questions, comments or requests regarding this privacy policy, y
 																									
 Changes to this Policy																									
 "If you wish to change these settings at a later date, you must empty your browser's cache so that the banner appears again or Retention period: their life span is generally the time of the session and a maximum of several months.Consequence in case of blocking: you may no longer be able to access the Platform and/or the Platform's Platforms. Details of the purposes:
+
 ● retain your expressed choice on the deposit of tracers;
+
 ● to allow you to remain connected when you navigate from one page of the Platform to another;
+
 ● to keep track of the contents of your shopping cart or to charge for the product(s) and/or Platform(s) purchased;
+
 ● customise the user interface (e.g. for language selection or presentation of our Platforms); save the format and dimensions of your screen and windows in order to correctly display our Platform;
+
 ● authenticate you to a Platform, including those aimed at ensuring the security of the authentication mechanism, for example by limiting robotic or unexpected access attempts;
+
 ● combat spam and phishing attempts, by enabling us to identify computers used to create large numbers of fake accounts;
+
 ● detect computers infected with malware and prevent them from causing damage
+
 ● implement security measures, for example when you are asked to log in again to a content or Platform after a certain period of time;
+
 ● detect navigation problems and therefore improve the usability of our Platforms;
+
 ● to secure transactions and fight against fraud (prevention of payment fraud, identity theft, etc.);
+
 ● to balance the load of equipment contributing to a communication Platform;
+
 ● to route traffic between servers and to understand the loading speed of our pages;
+
 ● facilitate communication via the Platform;
+
 ● measure the audience, traffic and carry out statistics of our Platform and its Platforms, in particular to improve the functionality of the Platform.4.2) Audience cookies (subject to your prior consent):These cookies allow us to collect information about your use of the site (number of visits, pages visited, time spent on the site, etc.) in order to carry out statistical analyses, on an aggregate basis, of the number of users and the way in which you navigate our Platform.Retention period: The life of these cookies does not exceed 13 months.Consequence in case of blocking: No consequence for the user but by accepting them, you contribute to the improvement of our Platform and our Platforms.To block this cookie directly via Google: Google Analytics opt-out browser add-on - Analytics HelpDetail of the purposes:
+
 ● to measure the audience, traffic and performance of our Platform and its Platforms and to improve the functionality of the Platform;
+
 ● to analyse traffic in greater depth.4.3) Content personalisation cookies (subject to your prior consent):These cookies do not directly store personal data, but are based on the unique identification of your browser and terminal. These cookies allow us to deduce your user profile and recommend products, Platforms and content that best suit your preferences, and to offer you certain promotional offers on our Platform.Retention period: Their life span is very short, generally the time of the session, a few hours and a maximum of 13 months.Consequence in case of blocking: No consequence on the use of the Platform. On the other hand, their deletion will have the effect of displaying content that does not take into account your centres of interest. By accepting these cookies, you benefit from an enriched and personalised experience.Details of the purposes:
+
 ● to offer you content, products and Platforms that are personalised according to your preferences, interests and your browsing and use of the Platform;
+
 ● to identify your visit to our Platform, track the pages you visit and the links you click; to understand your user profile to better tailor our Platform and the advertisements displayed on it to your interests. If you have given us permission to send you advertising emails (such as newsletter sign-ups) or push notifications, we will also use this information to personalise these (targeting or advertising cookies).4.4) Personalised advertising cookies (subject to your prior consent):These cookies may be set within our Platform by our advertising partners. They may be used by these companies to profile your interests and deliver relevant and personalised advertising on other websites. These cookies allow us to display ads that best match your preferences. Your profile is also enriched with information from your interactions with our partners or with other publishers who are clients of these partners.Retention period: Their life span is very short, generally the time of the session, a few hours and a maximum of 13 months.Consequence in case of blocking: No consequence on the use of the Platform. On the other hand, their deletion will not lead to the cessation of advertising on the Internet. It will only result in the display of advertising that does not take your interests into account. By accepting these cookies, you will benefit from an enriched and personalised experience.Detail on the purposes:
+
 ● to offer you personalised content, products and Platforms based on your preferences, interests and your browsing and use of the Platform;
+
 ● to count the total number of advertisements displayed by us on our advertising spaces, to identify these advertisements, their respective number of displays, the number of users who clicked on each advertisement and, if applicable, the subsequent actions taken by these users on the pages to which these advertisements lead;
+
 ● to adapt the advertising content of our Platform through our advertising spaces as well as our offers, according to the navigation on our Platform, or third party sites, the purchases you may make and/or according to the location data (longitude and latitude) transmitted by your terminal (with your prior consent);
+
 ● to associate this data with browsing information in order to send you, for example, electronic prospecting or to display on your terminal, within advertising spaces that we issue, personalised advertisements that are specifically intended for you and likely to interest you personally.4.5) Social network sharing cookies (subject to your consent):We may include on our site, computer applications from third parties, which allow you to share content from our site with other people or to let these other people know your consultation or your opinion concerning a content of our Platform. This is notably the case of the ""Share"" and ""Like"" buttons from social networks such as ""Facebook"".The social network providing such an application button is likely to identify you thanks to this button, even if you did not use this button when visiting our site. Indeed, this type of application button may allow the social network concerned to track your browsing on our site, simply because your account with the social network concerned was activated on your terminal (open session) during your browsing on our site.We have no control over the process used by these third parties to collect information relating to your browsing on our site and associated with the personal data they hold. We invite you to consult the privacy protection policies of these social networks in order to learn about the purposes for which they may use the browsing information they may collect through these application buttons, particularly for advertising purposes. These protection policies must allow you to exercise your choices with these social networks, in particular by configuring your user accounts for each of these networks.Retention period: The retention period of the sharing cookies is determined by each social network but must not exceed 13 months.Consequence in case of blocking: No consequence on the use of the Platform. However, deactivating these cookies will prevent any interaction with the network(s) concerned."																									
 																									
 How do we notify you?																									
